@@ -11,5 +11,8 @@ for(i == 1;s[i] && s[i] != c;i++)
 isalpha idigit isprint  ctype.h
 for(int i = 0; i < (len+1)/2; i++)
 const char *rev = "  "
+while(x > 0) {y += x % 10; x /= 10;}
+if(ans[y] == 0 || x < ans[y]) ans[y] = m;
+
 
 
