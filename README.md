@@ -17,12 +17,19 @@ if(ans[y] == 0 || x < ans[y]) ans[y] = m;
 return hypot(x, y)
 typedef struct(double a, y;) Point;
 return hypot(a.x-b.x,a.y-b.y)
-for(int i = 2; i * i <= n; i++)
+for(int i = 2; i * i <= n; i++)``
 is_xxx
 floor(sqrt(n)+0.5)
 void swap(int *a, int *b)
 swap(&a, &b)
-
+#include<cstdio>
+<algorithm>
+const int maxn = ..
+void swap2(int& a,int& b)
+string
+<sstream> stringstream
+getline(cin, line)
+template<typename T>
 
 
 
