@@ -20,6 +20,8 @@ return hypot(a.x-b.x,a.y-b.y)
 for(int i = 2; i * i <= n; i++)
 is_xxx
 floor(sqrt(n)+0.5)
+void swap(int *a, int *b)
+swap(&a, &b)
 
 
 
